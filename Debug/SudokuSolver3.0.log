@@ -1,0 +1,16 @@
+﻿  Gameboard.cpp
+d:\documents\coding practice\sudokusolver3.0\sudokusolver3.0\gameboard.cpp(35): warning C4018: '<': signed/unsigned mismatch
+d:\documents\coding practice\sudokusolver3.0\sudokusolver3.0\gameboard.cpp(99): warning C4018: '<': signed/unsigned mismatch
+d:\documents\coding practice\sudokusolver3.0\sudokusolver3.0\gameboard.cpp(140): warning C4018: '<': signed/unsigned mismatch
+d:\documents\coding practice\sudokusolver3.0\sudokusolver3.0\gameboard.cpp(179): warning C4018: '<': signed/unsigned mismatch
+d:\documents\coding practice\sudokusolver3.0\sudokusolver3.0\gameboard.cpp(186): warning C4018: '<': signed/unsigned mismatch
+d:\documents\coding practice\sudokusolver3.0\sudokusolver3.0\gameboard.cpp(193): warning C4018: '<': signed/unsigned mismatch
+d:\documents\coding practice\sudokusolver3.0\sudokusolver3.0\gameboard.cpp(210): warning C4018: '<': signed/unsigned mismatch
+d:\documents\coding practice\sudokusolver3.0\sudokusolver3.0\gameboard.cpp(211): warning C4018: '<': signed/unsigned mismatch
+d:\documents\coding practice\sudokusolver3.0\sudokusolver3.0\gameboard.cpp(222): warning C4018: '<': signed/unsigned mismatch
+d:\documents\coding practice\sudokusolver3.0\sudokusolver3.0\gameboard.cpp(243): warning C4018: '<': signed/unsigned mismatch
+d:\documents\coding practice\sudokusolver3.0\sudokusolver3.0\gameboard.cpp(252): warning C4018: '<': signed/unsigned mismatch
+d:\documents\coding practice\sudokusolver3.0\sudokusolver3.0\gameboard.cpp(260): warning C4018: '<': signed/unsigned mismatch
+d:\documents\coding practice\sudokusolver3.0\sudokusolver3.0\gameboard.cpp(176): warning C4715: 'Gameboard::solveBoard': not all control paths return a value
+  SudokuSolver3.0.vcxproj -> D:\Documents\Coding Practice\SudokuSolver3.0\Debug\SudokuSolver3.0.exe
+  SudokuSolver3.0.vcxproj -> D:\Documents\Coding Practice\SudokuSolver3.0\Debug\SudokuSolver3.0.pdb (Full PDB)
